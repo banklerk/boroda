@@ -1,6 +1,6 @@
 # Барбершоп «Бородинский»
 
-* Сайт: [Barbershop-Borodinski](https://banklerk.github.io/boroda/)
+* Сайт: [Барбершоп «Бородинский»](https://banklerk.github.io/boroda/)
 * Дизайн: [HTML Academy](https://htmlacademy.ru/)
 
 
